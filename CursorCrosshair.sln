@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorCrosshair", "CursorCrosshair\CursorCrosshair.csproj", "{AD1C88B4-7605-4468-A93A-5A002601108D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1C88B4-7605-4468-A93A-5A002601108D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1C88B4-7605-4468-A93A-5A002601108D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1C88B4-7605-4468-A93A-5A002601108D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1C88B4-7605-4468-A93A-5A002601108D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A203F897-4D6D-4F1E-91CC-F201E01C0839}
+	EndGlobalSection
+EndGlobal
